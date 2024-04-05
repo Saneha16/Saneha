@@ -1,0 +1,25 @@
+﻿equipment,logDate,description,technician,status
+Excavator,2024-04-01,Performed routine maintenance check.,John Doe,Completed
+Bulldozer,2024-03-30,Replaced damaged hydraulic hose.,Jane Smith,Completed
+Crane,2024-03-28,Inspected boom for cracks.,Adam Johnson,In Progress
+Forklift,2024-03-27,Replaced worn-out tires.,Sarah Williams,Completed
+Tractor,2024-03-25,Changed engine oil.,Michael Brown,In Progress
+Generator,2024-03-23,Tested backup power system.,Emily Jones,Completed
+Dump Truck,2024-03-21,Repaired brake system.,Daniel Taylor,In Progress
+Backhoe,2024-03-19,Checked hydraulic fluid levels.,Olivia Martinez,Completed
+Skid Steer Loader,2024-03-17,Adjusted track tension.,William Wilson,In Progress
+Concrete Mixer,2024-03-15,Replaced drum bearing.,Sophia Anderson,Completed
+Aerial Work Platform,2024-03-13,Tested safety features.,James White,In Progress
+Bulldozer,2024-03-11,Lubricated moving parts.,Emma Garcia,Completed
+Excavator,2024-03-09,Inspected hydraulic system.,Alexander Rodriguez,In Progress
+Crane,2024-03-07,Checked wire ropes for wear.,Isabella Lopez,Completed
+Forklift,2024-03-05,Adjusted mast tilt.,David Martinez,In Progress
+Tractor,2024-03-03,Replaced air filter.,Ava Hernandez,Completed
+Generator,2024-03-01,Refilled coolant.,Noah Perez,In Progress
+Dump Truck,2024-02-28,Repaired exhaust system.,Mia Gonzalez,Completed
+Backhoe,2024-02-26,Cleaned fuel injectors.,Ethan Sanchez,In Progress
+Skid Steer Loader,2024-02-24,Replaced hydraulic hoses.,Charlotte Ramirez,Completed
+Concrete Mixer,2024-02-22,Adjusted mixing blades.,Benjamin Torres,In Progress
+Aerial Work Platform,2024-02-20,Tested platform stability.,Amelia Flores,Completed
+Bulldozer,2024-02-18,Inspected undercarriage.,Jacob Smith,In Progress
+Excavator,2024-02-16,Replaced bucket teeth.,Sophia Brown,Completed
